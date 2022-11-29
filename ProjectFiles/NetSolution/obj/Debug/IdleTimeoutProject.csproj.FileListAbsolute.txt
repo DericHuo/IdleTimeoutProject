@@ -1,0 +1,12 @@
+C:\Users\JMPawlak\Documents\Rockwell-Automation\FactoryTalk-Optix\Projects\IdleTimeoutProject\ProjectFiles\NetSolution\bin\IdleTimeoutProject.deps.json
+C:\Users\JMPawlak\Documents\Rockwell-Automation\FactoryTalk-Optix\Projects\IdleTimeoutProject\ProjectFiles\NetSolution\bin\IdleTimeoutProject.dll
+C:\Users\JMPawlak\Documents\Rockwell-Automation\FactoryTalk-Optix\Projects\IdleTimeoutProject\ProjectFiles\NetSolution\bin\IdleTimeoutProject.pdb
+C:\Users\JMPawlak\Documents\Rockwell-Automation\FactoryTalk-Optix\Projects\IdleTimeoutProject\ProjectFiles\NetSolution\obj\Debug\IdleTimeoutProject.csproj.AssemblyReference.cache
+C:\Users\JMPawlak\Documents\Rockwell-Automation\FactoryTalk-Optix\Projects\IdleTimeoutProject\ProjectFiles\NetSolution\obj\Debug\IdleTimeoutProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JMPawlak\Documents\Rockwell-Automation\FactoryTalk-Optix\Projects\IdleTimeoutProject\ProjectFiles\NetSolution\obj\Debug\IdleTimeoutProject.AssemblyInfoInputs.cache
+C:\Users\JMPawlak\Documents\Rockwell-Automation\FactoryTalk-Optix\Projects\IdleTimeoutProject\ProjectFiles\NetSolution\obj\Debug\IdleTimeoutProject.AssemblyInfo.cs
+C:\Users\JMPawlak\Documents\Rockwell-Automation\FactoryTalk-Optix\Projects\IdleTimeoutProject\ProjectFiles\NetSolution\obj\Debug\IdleTimeoutProject.csproj.CoreCompileInputs.cache
+C:\Users\JMPawlak\Documents\Rockwell-Automation\FactoryTalk-Optix\Projects\IdleTimeoutProject\ProjectFiles\NetSolution\obj\Debug\IdleTimeoutProject.dll
+C:\Users\JMPawlak\Documents\Rockwell-Automation\FactoryTalk-Optix\Projects\IdleTimeoutProject\ProjectFiles\NetSolution\obj\Debug\refint\IdleTimeoutProject.dll
+C:\Users\JMPawlak\Documents\Rockwell-Automation\FactoryTalk-Optix\Projects\IdleTimeoutProject\ProjectFiles\NetSolution\obj\Debug\IdleTimeoutProject.pdb
+C:\Users\JMPawlak\Documents\Rockwell-Automation\FactoryTalk-Optix\Projects\IdleTimeoutProject\ProjectFiles\NetSolution\obj\Debug\ref\IdleTimeoutProject.dll

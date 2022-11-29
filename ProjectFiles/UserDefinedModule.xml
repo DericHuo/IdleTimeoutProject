@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module version="1">
+    <Name>IdleTimeoutProjectUserDefinedModule</Name>
+    <Company></Company>
+    <Version>0.0.0</Version>
+    <MinUpgradableVersion>0.0.0</MinUpgradableVersion>
+    <Binding name="Net" />
+
+    <Namespaces/>
+
+    <Dependencies>
+        <Core version="0.0.0" />
+        <Binding version="0.0.0" />
+        <Module name="FTOptix.HMIProject.Net" version="0.0.0" />
+    </Dependencies>
+
+    <Nodes/>
+
+    <TypeMappings>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="IdleTimeoutProject" guid="4395b96dac2aca291a66977aa75f73e4" />
+            </TargetType>
+        </TypeMapping>
+    </TypeMappings>
+</Module>

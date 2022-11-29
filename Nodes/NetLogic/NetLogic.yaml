@@ -1,0 +1,11 @@
+Name: NetLogic
+Type: FolderType
+Children:
+- Name: NetLogic
+  Id: g=9b57200e011174c9e2d66bff68c3ebef
+  Type: NetLogic
+  Children:
+  - Class: Method
+    Name: Create
+  - Class: Method
+    Name: ResetLabelText
