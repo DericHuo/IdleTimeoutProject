@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a8QP05g9jeKa7uVoH9Yhmisw0sPwSf/DYYj1OoW/XprwmGhgqICMA5z0vUJMu8cadGLKA1tWWsBqeY6rQzq7lg==",
+  "dgSpecHash": "ogVeYrXaqBMJ29xIdR9MRXkNflMa1Xbe4CikZWi1HGUu9aZi7ItM+ZYxVLJZTzvUNB3DzIkFnZEmsa+i5YBMCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JMPawlak\\Documents\\Rockwell-Automation\\FactoryTalk-Optix\\Projects\\IdleTimeoutProject\\ProjectFiles\\NetSolution\\IdleTimeoutProject.csproj",
+  "projectFilePath": "C:\\Users\\dhuo1\\Documents\\IdleTimeoutProject\\ProjectFiles\\NetSolution\\IdleTimeoutProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

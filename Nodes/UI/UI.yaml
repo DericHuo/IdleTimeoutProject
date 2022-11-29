@@ -92,13 +92,13 @@ Children:
       Value: false
       Children:
       - Name: DynamicLink
-        Type: DataBind
+        Type: DynamicLink
         DataType: NodePath
         Value: "../../CheckBox1/Checked"
         Children:
         - Name: Mode
           Type: BaseVariableType
-          DataType: DataBindModeType
+          DataType: DynamicLinkMode
           ModellingRule: Optional
           Value: 2
     - Name: Duration

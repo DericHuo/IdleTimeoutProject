@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JMPawlak\\Documents\\Rockwell-Automation\\FactoryTalk-Optix\\Projects\\IdleTimeoutProject\\ProjectFiles\\NetSolution\\IdleTimeoutProject.csproj": {}
+    "C:\\Users\\dhuo1\\Documents\\IdleTimeoutProject\\ProjectFiles\\NetSolution\\IdleTimeoutProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JMPawlak\\Documents\\Rockwell-Automation\\FactoryTalk-Optix\\Projects\\IdleTimeoutProject\\ProjectFiles\\NetSolution\\IdleTimeoutProject.csproj": {
+    "C:\\Users\\dhuo1\\Documents\\IdleTimeoutProject\\ProjectFiles\\NetSolution\\IdleTimeoutProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JMPawlak\\Documents\\Rockwell-Automation\\FactoryTalk-Optix\\Projects\\IdleTimeoutProject\\ProjectFiles\\NetSolution\\IdleTimeoutProject.csproj",
+        "projectUniqueName": "C:\\Users\\dhuo1\\Documents\\IdleTimeoutProject\\ProjectFiles\\NetSolution\\IdleTimeoutProject.csproj",
         "projectName": "IdleTimeoutProject",
-        "projectPath": "C:\\Users\\JMPawlak\\Documents\\Rockwell-Automation\\FactoryTalk-Optix\\Projects\\IdleTimeoutProject\\ProjectFiles\\NetSolution\\IdleTimeoutProject.csproj",
-        "packagesPath": "C:\\Users\\JMPawlak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JMPawlak\\Documents\\Rockwell-Automation\\FactoryTalk-Optix\\Projects\\IdleTimeoutProject\\ProjectFiles\\NetSolution\\obj\\",
+        "projectPath": "C:\\Users\\dhuo1\\Documents\\IdleTimeoutProject\\ProjectFiles\\NetSolution\\IdleTimeoutProject.csproj",
+        "packagesPath": "C:\\Users\\dhuo1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dhuo1\\Documents\\IdleTimeoutProject\\ProjectFiles\\NetSolution\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\JMPawlak\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\dhuo1\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
